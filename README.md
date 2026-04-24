@@ -1,4 +1,5 @@
 # Hotel-booking-analysis-power-query
+![GitHub repo size](https://img.shields.io/github/repo-size/AnujSingh2399/Hotel-booking-analysis-power-query)
 
 Data cleaning and transformation project using Excel Power Query for hotel booking and room dataset
 
