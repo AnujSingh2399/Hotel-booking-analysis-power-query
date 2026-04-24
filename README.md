@@ -1,6 +1,9 @@
 # Hotel-booking-analysis-power-query
+
 Data cleaning and transformation project using Excel Power Query for hotel booking and room dataset
-![Dashboard](DashBoard.jpeg)
+
+![Dashboard](solution/DashBoard.jpeg)
+
 📊 Hotel Booking Data Analysis using Power Query
 🔍 Overview
 
